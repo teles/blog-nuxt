@@ -1,7 +1,17 @@
 ---
-title: vestido com botões
-version: 1
+description: >-
+  Se você está em busca de uma peça atemporal e que vai ser possível usá-la em
+  diferentes épocas do ano, essa peça é o vestido com botões na frente.
+image:
+  src: >-
+    https://images.tcdn.com.br/img/img_prod/759897/saia_midi_plissada_floral_azul_5074513_1_20200912013502.jpg
 slug: vestido-com-botoes
+tags:
+  - vestido
+  - botoes
+title: vestido com botões
+published: false
+version: 1
 ---
 Se você está em busca de uma peça atemporal e que vai ser possível usá-la em diferentes épocas do ano, essa peça é o vestido com botões na frente.
 
@@ -101,10 +111,10 @@ vestido de botões midi
 
 vestido branco com botões na frente
 
-[https://www.sitedebelezaemoda.com.br/vestido-de-botoes-na-frente/](https://www.google.com/url?q=https://www.sitedebelezaemoda.com.br/vestido-de-botoes-na-frente/&sa=D&source=editors&ust=1621437878228000&usg=AOvVaw0dUYK0i5pv0qx1tmrkPxEj)
+[https://www.sitedebelezaemoda.com.br/vestido-de-botoes-na-frente/](https://www.google.com/url?q=https://www.sitedebelezaemoda.com.br/vestido-de-botoes-na-frente/&sa=D&source=editors&ust=1621562669628000&usg=AOvVaw1Ip-dtgqGeUkute733cYIg)
 
-[https://www.dicasdemulher.com.br/vestido-com-botao-na-frente/](https://www.google.com/url?q=https://www.dicasdemulher.com.br/vestido-com-botao-na-frente/&sa=D&source=editors&ust=1621437878229000&usg=AOvVaw2nfqFfDL8qhbdPzi_I4Mge)
+[https://www.dicasdemulher.com.br/vestido-com-botao-na-frente/](https://www.google.com/url?q=https://www.dicasdemulher.com.br/vestido-com-botao-na-frente/&sa=D&source=editors&ust=1621562669629000&usg=AOvVaw1qS4XxRizDK3WyLxmn0X9W)
 
-[https://stealthelook.com.br/fashion-girl-essential-vestido-de-botoes/](https://www.google.com/url?q=https://stealthelook.com.br/fashion-girl-essential-vestido-de-botoes/&sa=D&source=editors&ust=1621437878230000&usg=AOvVaw2OJK19yZMKr8jhGzVnwvTE)
+[https://stealthelook.com.br/fashion-girl-essential-vestido-de-botoes/](https://www.google.com/url?q=https://stealthelook.com.br/fashion-girl-essential-vestido-de-botoes/&sa=D&source=editors&ust=1621562669630000&usg=AOvVaw3FoEK-6q6j85bBXnkC3ovq)
 
-[https://www.wefashiontrends.com/vestido-de-botoes-na-frente-como-usar-essa-peca-de-uma-maneira-charmosa/](https://www.google.com/url?q=https://www.wefashiontrends.com/vestido-de-botoes-na-frente-como-usar-essa-peca-de-uma-maneira-charmosa/&sa=D&source=editors&ust=1621437878230000&usg=AOvVaw1VHOQEe5iBq1s9pAQek1Xo)
+[https://www.wefashiontrends.com/vestido-de-botoes-na-frente-como-usar-essa-peca-de-uma-maneira-charmosa/](https://www.google.com/url?q=https://www.wefashiontrends.com/vestido-de-botoes-na-frente-como-usar-essa-peca-de-uma-maneira-charmosa/&sa=D&source=editors&ust=1621562669630000&usg=AOvVaw01LhzwsMuTA7AcSg-5jGQz)

@@ -5,12 +5,10 @@
         {{post.title}}
       </NuxtLink>
     </h2>
-    <img class="post-box__image" v-if="post.image && post.image.src" src="post.image.src" />
+    <img class="post-box__image" v-if="post.image && post.image.src" :src="post.image.src" />
     <div class="post-box__image"  v-else></div>
-    <div class="post-box__description">
-      {{post.description}}
-    </div>
-    <span onclick="location.href='/papel-de-parede/'" class="post-box__call-to-action">Continue</span>
+    <div class="post-box__description">{{post.description}}</div>
+    <NuxtLink :to="{ name: 'slug', params: { slug: post.slug } }" class="post-box__call-to-action">Continue</NuxtLink>
   </div>
 </template>
 

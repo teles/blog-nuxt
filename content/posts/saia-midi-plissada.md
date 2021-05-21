@@ -1,7 +1,18 @@
 ---
-title: saia midi plissada
-version: 1
+description: >-
+  Não é de hoje que a saia midi plissada faz sucesso e ganhou seu espaço no
+  mundo fashion. Mas apesar de linda e super feminina, muitas mulheres encontram
+  dificuldade na hora de montar looks com saia midi plissada, investindo quase
+  sempre em um estilo mais clássico.
+image:
+  src: >-
+    https://images.tcdn.com.br/img/img_prod/759897/saia_midi_plissada_floral_azul_5074513_1_20200912013502.jpg
 slug: saia-midi-plissada
+tags:
+  - saia
+title: saia midi plissada
+published: true
+version: 1
 ---
 Não é de hoje que a saia midi plissada faz sucesso e ganhou seu espaço no mundo fashion. Mas apesar de linda e super feminina, muitas mulheres encontram dificuldade na hora de montar looks com saia midi plissada, investindo quase sempre em um estilo mais clássico.
 

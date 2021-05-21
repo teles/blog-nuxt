@@ -1,7 +1,20 @@
 ---
-title: calça de couro
-version: 2
+description: >-
+  Alguns tipos de peças são curinga em nosso guarda-roupa e entre essas peças
+  encontramos a calça de couro. Seja ela uma calça de couro flare, tradicional
+  ou mesmo com alguns detalhes como bolsos, esse tipo de calça pode ser inserida
+  com facilidade em diferentes estilos e acrescentar um toque especial no seu
+  visual.
+image:
+  src: >-
+    https://images.tcdn.com.br/img/img_prod/759897/saia_midi_plissada_floral_azul_5074513_1_20200912013502.jpg
 slug: calca-de-couro
+tags:
+  - calça
+  - couro
+title: calça de couro
+published: true
+version: 1
 ---
 Alguns tipos de peças são curinga em nosso guarda-roupa e entre essas peças encontramos a calça de couro. Seja ela uma calça de couro flare, tradicional ou mesmo com alguns detalhes como bolsos, esse tipo de calça pode ser inserida com facilidade em diferentes estilos e acrescentar um toque especial no seu visual.
 
@@ -95,12 +108,12 @@ calça de couro cintura alta
 
 calça de couro feminina preta
 
-[https://www.dicasdemulher.com.br/calca-de-couro/](https://www.google.com/url?q=https://www.dicasdemulher.com.br/calca-de-couro/&sa=D&source=editors&ust=1621437878111000&usg=AOvVaw3looAcYVXDyCdjYl-h8NXM)
+[https://www.dicasdemulher.com.br/calca-de-couro/](https://www.google.com/url?q=https://www.dicasdemulher.com.br/calca-de-couro/&sa=D&source=editors&ust=1621562669645000&usg=AOvVaw33GVgIkxMLzEijOG9N1yNR)
 
-[https://www.justlia.com.br/2012/07/como-usar-calca-de-couro/](https://www.google.com/url?q=https://www.justlia.com.br/2012/07/como-usar-calca-de-couro/&sa=D&source=editors&ust=1621437878112000&usg=AOvVaw1ynVwbZgl6vXNsQt1U00eA)
+[https://www.justlia.com.br/2012/07/como-usar-calca-de-couro/](https://www.google.com/url?q=https://www.justlia.com.br/2012/07/como-usar-calca-de-couro/&sa=D&source=editors&ust=1621562669645000&usg=AOvVaw0spdwKNAYKnn2b8R5eqn6O)
 
-[https://gauchazh.clicrbs.com.br/donna/moda/noticia/2018/04/calca-de-couro-preta-aprenda-a-usar-uma-peca-em-varios-looks-cjpijkc3s003f8icn5012wf83.html](https://www.google.com/url?q=https://gauchazh.clicrbs.com.br/donna/moda/noticia/2018/04/calca-de-couro-preta-aprenda-a-usar-uma-peca-em-varios-looks-cjpijkc3s003f8icn5012wf83.html&sa=D&source=editors&ust=1621437878112000&usg=AOvVaw28GfkC-gQMrgtrO2dhu6i7)
+[https://gauchazh.clicrbs.com.br/donna/moda/noticia/2018/04/calca-de-couro-preta-aprenda-a-usar-uma-peca-em-varios-looks-cjpijkc3s003f8icn5012wf83.html](https://www.google.com/url?q=https://gauchazh.clicrbs.com.br/donna/moda/noticia/2018/04/calca-de-couro-preta-aprenda-a-usar-uma-peca-em-varios-looks-cjpijkc3s003f8icn5012wf83.html&sa=D&source=editors&ust=1621562669646000&usg=AOvVaw3u2t-gF7CSCJ4yfCenP9gC)
 
-[http://fabianascaranzi.com.br/calca-de-couro-saiba-como-usar-essa-peca-curinga/](https://www.google.com/url?q=http://fabianascaranzi.com.br/calca-de-couro-saiba-como-usar-essa-peca-curinga/&sa=D&source=editors&ust=1621437878113000&usg=AOvVaw01Igk8OFabNUiZmzVUp1Pt)
+[http://fabianascaranzi.com.br/calca-de-couro-saiba-como-usar-essa-peca-curinga/](https://www.google.com/url?q=http://fabianascaranzi.com.br/calca-de-couro-saiba-como-usar-essa-peca-curinga/&sa=D&source=editors&ust=1621562669646000&usg=AOvVaw2umM7uhGH6hqeUaFQkHxK1)
 
-[https://stealthelook.com.br/8-maneiras-infaliveis-de-usar-calca-de-couro?utm=teste](https://www.google.com/url?q=https://stealthelook.com.br/8-maneiras-infaliveis-de-usar-calca-de-couro/?utm%3Dteste&sa=D&source=editors&ust=1621437878114000&usg=AOvVaw3lJgekN34VngJ-0SFbQ26j)
+[https://stealthelook.com.br/8-maneiras-infaliveis-de-usar-calca-de-couro?utm=teste](https://www.google.com/url?q=https://stealthelook.com.br/8-maneiras-infaliveis-de-usar-calca-de-couro/?utm%3Dteste&sa=D&source=editors&ust=1621562669646000&usg=AOvVaw25OVDThYBdH6v32c2vVK0V)
