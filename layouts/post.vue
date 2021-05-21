@@ -3,6 +3,7 @@
 </template>
 
 <style>
+@import '../static/css/_page.css';
 html, body {
   margin: 0;
   padding: 0;
@@ -11,4 +12,5 @@ html, body {
 body img {
   max-width: 100%;
 }
+
 </style>

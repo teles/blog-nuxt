@@ -1,22 +1,19 @@
 <template>
-  <div>
-    <h1>Blog Posts</h1>
-    <ul>
-      <li v-for="post of posts" :key="post.slug">
-        <NuxtLink :to="{ name: 'slug', params: { slug: post.slug } }">
-          <img :src="post.img" />
-          <div>
-            <h2>{{ post.title }}</h2>
-            <p>{{ post.description }}</p>
-          </div>
-        </NuxtLink>
-      </li>
-    </ul>
+  <div class="page">
+    <header class="page__header"></header>
+    <main class="page__main">
+      <post-box :post="post" v-for="post of posts" :key="post.slug"></post-box>
+    </main>
   </div>
 </template>
 
 <script>
+import PostBox from '../components/PostBox';
+
 export default {
+  components: {
+    PostBox,
+  },
   async asyncData({ $content }) {
     const posts = await $content('posts')
       .only(['title', 'description', 'img', 'slug'])
