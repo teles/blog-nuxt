@@ -47,6 +47,6 @@ export default {
   // https://nuxtjs.org/docs/2.x/deployment/github-pages
   target: 'static',
   router: {
-    base: '/teles/blog-nuxt'
+    base: '/blog-nuxt'
   }
 }
