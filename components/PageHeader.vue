@@ -1,5 +1,5 @@
 <template>
-  <fragment>
+  <div :style="isSticky ? 'position: sticky; top: 0;z-index:1;' : 'position: relative;z-index:1;'">
   <header :class="isDarker ? 'page__header--is-darker' : 'page__header'">
     <a class="page__header__logo" href="/">
       <img src="/img/logo-principal-seamodapega.svg" class="page__header__logo__image" />
@@ -9,20 +9,23 @@
     </ul>
   </header>
   <page-navigation :is-darker="isDarker" />
-  </fragment>
+  </div>
 </template>
 
 <script>
 import PageNavigation from './PageNavigation'
-import {Fragment} from 'vue-fragment';
 
 export default {
   components: {
-    PageNavigation,
-    Fragment
+    PageNavigation
   },
   props: {
     isDarker: {
+      type: Boolean,
+      required: false,
+      default: false
+    },
+    isSticky: {
       type: Boolean,
       required: false,
       default: false
@@ -38,6 +41,7 @@ export default {
   display: flex;
   border-bottom: 1px solid #e2e2e9;
   padding: var(--spacing-2) var(--spacing-1) 0 var(--spacing-1);
+  background-color: #fff;
 }
 
 .page__header--is-darker {

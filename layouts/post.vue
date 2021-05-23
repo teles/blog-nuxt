@@ -1,6 +1,6 @@
 <template>
   <div class="page">
-    <page-header :is-darker="true" />
+    <page-header :is-darker="true" :is-sticky="true" />
     <main class="page__main">
       <Nuxt />
     </main>
