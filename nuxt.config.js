@@ -44,4 +44,9 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
+  // https://nuxtjs.org/docs/2.x/deployment/github-pages
+  target: 'static',
+  router: {
+    base: '/teles/blog-nuxt'
+  }
 }
