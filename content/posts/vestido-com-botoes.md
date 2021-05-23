@@ -5,12 +5,12 @@ description: >-
 image:
   src: >-
     https://images.tcdn.com.br/img/img_prod/759897/saia_midi_plissada_floral_azul_5074513_1_20200912013502.jpg
+published: true
 slug: vestido-com-botoes
 tags:
   - vestido
   - botoes
 title: vestido com botões
-published: false
 version: 1
 ---
 Se você está em busca de uma peça atemporal e que vai ser possível usá-la em diferentes épocas do ano, essa peça é o vestido com botões na frente.
@@ -111,10 +111,10 @@ vestido de botões midi
 
 vestido branco com botões na frente
 
-[https://www.sitedebelezaemoda.com.br/vestido-de-botoes-na-frente/](https://www.google.com/url?q=https://www.sitedebelezaemoda.com.br/vestido-de-botoes-na-frente/&sa=D&source=editors&ust=1621562669628000&usg=AOvVaw1Ip-dtgqGeUkute733cYIg)
+<a href='https://www.sitedebelezaemoda.com.br/vestido-de-botoes-na-frente/'>https://www.sitedebelezaemoda.com.br/vestido-de-botoes-na-frente/</a>
 
-[https://www.dicasdemulher.com.br/vestido-com-botao-na-frente/](https://www.google.com/url?q=https://www.dicasdemulher.com.br/vestido-com-botao-na-frente/&sa=D&source=editors&ust=1621562669629000&usg=AOvVaw1qS4XxRizDK3WyLxmn0X9W)
+<a href='https://www.dicasdemulher.com.br/vestido-com-botao-na-frente/'>https://www.dicasdemulher.com.br/vestido-com-botao-na-frente/</a>
 
-[https://stealthelook.com.br/fashion-girl-essential-vestido-de-botoes/](https://www.google.com/url?q=https://stealthelook.com.br/fashion-girl-essential-vestido-de-botoes/&sa=D&source=editors&ust=1621562669630000&usg=AOvVaw3FoEK-6q6j85bBXnkC3ovq)
+<a href='https://stealthelook.com.br/fashion-girl-essential-vestido-de-botoes/'>https://stealthelook.com.br/fashion-girl-essential-vestido-de-botoes/</a>
 
-[https://www.wefashiontrends.com/vestido-de-botoes-na-frente-como-usar-essa-peca-de-uma-maneira-charmosa/](https://www.google.com/url?q=https://www.wefashiontrends.com/vestido-de-botoes-na-frente-como-usar-essa-peca-de-uma-maneira-charmosa/&sa=D&source=editors&ust=1621562669630000&usg=AOvVaw01LhzwsMuTA7AcSg-5jGQz)
+<a href='https://www.wefashiontrends.com/vestido-de-botoes-na-frente-como-usar-essa-peca-de-uma-maneira-charmosa/'>https://www.wefashiontrends.com/vestido-de-botoes-na-frente-como-usar-essa-peca-de-uma-maneira-charmosa/</a>

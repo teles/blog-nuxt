@@ -7,11 +7,11 @@ description: >-
 image:
   src: >-
     https://images.tcdn.com.br/img/img_prod/759897/saia_midi_plissada_floral_azul_5074513_1_20200912013502.jpg
+published: true
 slug: camiseta-de-banda
 tags:
   - camiseta
 title: camiseta de banda
-published: true
 version: 1
 ---
 Todo mundo tem aquele cantor (a) ou banda predileta, não é mesmo? E tenho certeza que você também tem. E nada melhor que expressar todo o nosso amor pela banda que tanto gostamos e uma forma de fazer isso é investindo em looks com camiseta de banda.

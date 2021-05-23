@@ -1,14 +1,26 @@
 <template>
-    <Nuxt />
+  <div class="page">
+    <page-header :is-darker="false" />
+    <main class="page__main">
+      <Nuxt />
+    </main>
+    <page-footer />
+  </div>
 </template>
 
+<script>
+import PageHeader from '../components/PageHeader'
+import PageFooter from '../components/PageFooter'
+
+export default {
+  components: {
+    PageHeader,
+    PageFooter
+  }
+}
+</script>
+
 <style>
-html, body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
-}
-body img {
-  max-width: 100%;
-}
+@import '../static/css/_global-variables.css';
+@import '../static/css/_global.css';
 </style>
