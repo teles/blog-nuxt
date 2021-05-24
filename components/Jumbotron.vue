@@ -1,8 +1,10 @@
 <template>
   <section class="jumbotron">
-    <img :src="post.image.src" class="jumbotron__image">
+    <NuxtLink :to="{ name: 'slug', params: { slug: post.slug } }">
+      <img :src="post.image.src" class="jumbotron__image">
+    </NuxtLink>
     <div class="jumbotron__content">
-      <a href="jumbotron__category" class="jumbotron__category">{{post.category}}</a>
+      <span href="jumbotron__category" class="jumbotron__category">{{post.category}}</span>
       <h2 class="jumbotron__title">
         <NuxtLink :to="{ name: 'slug', params: { slug: post.slug } }" class="jumbotron__title__anchor">
           {{post.title}}

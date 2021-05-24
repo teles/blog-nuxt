@@ -1,7 +1,7 @@
 <template>
   <ul class="featured-posts">
     <li class="featured-posts__post" v-for="(post, index) in posts" :key="index">
-      <a href="lala" class="featured-posts_post__category">{{post.category}}</a>
+      <span  class="featured-posts_post__category">{{post.category}}</span>
       <img :src="post.image.src" class="featured-posts__post__image">
       <h2 class="featured-posts__post__title">
         <NuxtLink :to="{ name: 'slug', params: { slug: post.slug } }" class="featured-posts__post__anchor">
