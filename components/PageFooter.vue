@@ -1,6 +1,6 @@
 <template>
   <footer class="page__footer">
-    <img src="/img/logo-principal-seamodapega.svg" class="page__footer__logo" />
+    <img src="~/assets/img/logo-principal-seamodapega.svg" class="page__footer__logo" />
   </footer>
 </template>
 <style>
