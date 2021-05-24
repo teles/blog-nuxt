@@ -5,8 +5,9 @@
   --color-almost-white: #f6f6f8;
   --color-gray-regular: #d8d8d8;
   --color-red-featured: #e84118;
-  --spacing-1: 10px;
-  --spacing-2: 20px;
-  --spacing-3: 30px;
-  --spacing-4: 40px;
+  --spacing-1: 15px;
+  --spacing-2: 30px;
+  --spacing-3: 42px;
+  --spacing-4: 50px;
+  --line-height-regular: 1.42;
 }
