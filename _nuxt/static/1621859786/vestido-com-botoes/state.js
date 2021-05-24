@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fblog-nuxt\u002F_nuxt\u002Fstatic\u002F1621859786",layout:"post",error:a,serverRendered:true,routePath:"\u002Fvestido-com-botoes",config:{_app:{basePath:"\u002Fblog-nuxt\u002F",assetsPath:"\u002Fblog-nuxt\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"6aceff72"}}}}(null));
