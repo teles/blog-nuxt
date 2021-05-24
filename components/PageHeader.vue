@@ -1,9 +1,9 @@
 <template>
   <div :style="isSticky ? 'position: sticky; top: 0;z-index:1;' : 'position: relative;z-index:1;'">
   <header :class="isDarker ? 'page__header--is-darker' : 'page__header'">
-    <a class="page__header__logo" href="/">
+    <NuxtLink class="page__header__logo" to="/">
       <img src="~/assets/img/logo-principal-seamodapega.svg" class="page__header__logo__image" />
-    </a>
+    </NuxtLink>
     <ul class="page__header__actions">
       <li class="page__header__action">🔎</li>
     </ul>
