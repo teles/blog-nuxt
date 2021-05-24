@@ -40,7 +40,7 @@ export default {
 .page__header--is-darker {
   display: flex;
   border-bottom: 1px solid #e2e2e9;
-  padding: var(--spacing-2) var(--spacing-1) 0 var(--spacing-1);
+  padding: var(--spacing-1) var(--spacing-1) 0 var(--spacing-1);
   background-color: #fff;
 }
 
@@ -56,6 +56,7 @@ export default {
     align-items: center;
     grid-template-areas: ". logo actions. " ". line line. ";
     grid-template-columns: 1fr minmax(280px, 640px) minmax(280px, 640px) 1fr;
+    padding: var(--spacing-2) var(--spacing-1) 0 var(--spacing-1);
     border-bottom: 0;
   }
 

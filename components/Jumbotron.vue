@@ -79,5 +79,6 @@ export default {
 .jumbotron__description {
   color: var(--color-dark--light);
   font-weight: 200;
+  line-height: var(--line-height-regular);
 }
 </style>

@@ -140,8 +140,10 @@ export default {
 }
 
 .featured-posts__post__description {
+  color: var(--color-dark--light);
   font-weight: 100;
   margin-top: 10px;
   grid-area: description;
+  line-height: var(--line-height-regular);
 }
 </style>

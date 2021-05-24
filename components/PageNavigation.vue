@@ -44,7 +44,7 @@ export default {
   margin: 0 auto;
   max-width: 1280px;
   list-style: none;
-  padding: var(--spacing-2) 0;
+  padding: var(--spacing-1);
   display: block;
   gap: 20px;
 }
@@ -52,6 +52,7 @@ export default {
 @media(min-width: 768px) {
   .page__navigation__list {
     display: flex;
+    padding: var(--spacing-2) 0;
   }
 }
 
