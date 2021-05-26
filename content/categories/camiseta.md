@@ -1,5 +1,6 @@
 ---
-name: 'Camiseta'
-slug: 'camiseta'
+slug: camiseta
+title: Camiseta
+version: 1
 ---
-Camisetas são maravilhosas
+Camisetas: básicas porém cheias de estilo

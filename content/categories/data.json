@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "saia",
+    "title": "Saia",
+    "version": 1,
+    "description": "Saias com as melhores combinações pro seu look"
+  },
+  {
+    "slug": "vestido",
+    "title": "Vestido",
+    "version": 1,
+    "description": "Vestidos podem fazer toda a diferença no guarda-roupa"
+  },
+  {
+    "slug": "camiseta",
+    "title": "Camiseta",
+    "version": 1,
+    "description": "Camisetas: básicas porém cheias de estilo"
+  },
+  {
+    "slug": "calca",
+    "title": "Calça",
+    "version": 1,
+    "description": "Calças hoje são indispensáveis em armários de homens e mulheres"
+  }
+]

@@ -1,5 +1,5 @@
 ---
-category: Calça
+category: calca
 description: >-
   Alguns tipos de peças são curinga em nosso guarda-roupa e entre essas peças
   encontramos a calça de couro. Seja ela uma calça de couro flare, tradicional
@@ -14,7 +14,6 @@ slug: calca-de-couro
 tags:
   - calça
   - couro
-title: calça de couro
 version: 3
 ---
 Alguns tipos de peças são curinga em nosso guarda-roupa e entre essas peças encontramos a calça de couro. Seja ela uma calça de couro flare, tradicional ou mesmo com alguns detalhes como bolsos, esse tipo de calça pode ser inserida com facilidade em diferentes estilos e acrescentar um toque especial no seu visual.

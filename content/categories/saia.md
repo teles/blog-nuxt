@@ -1,5 +1,6 @@
 ---
-name: 'Saia'
-slug: 'saia'
+slug: saia
+title: Saia
+version: 1
 ---
-Saias são maravilhosas
+Saias com as melhores combinações pro seu look

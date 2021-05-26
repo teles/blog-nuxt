@@ -1,5 +1,5 @@
 ---
-category: Calça
+category: calca
 description: >-
   A pantalona jeans é aquela tendência de moda que de tempos em tempos  volta e
   todo mundo se rende aos seus encantos, visto que os looks com pantalona jeans
@@ -13,7 +13,6 @@ slug: pantalona-jeans
 tags:
   - pantalona
   - jeans
-title: pantalona jeans
 version: 3
 ---
 A pantalona jeans é aquela tendência de moda que de tempos em tempos  volta e todo mundo se rende aos seus encantos, visto que os looks com pantalona jeans são super confortáveis além de produzirem um visual cheio de estilo bem fashionista.

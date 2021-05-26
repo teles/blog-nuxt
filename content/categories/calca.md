@@ -1,5 +1,6 @@
 ---
-name: 'Calça'
-slug: 'calca'
+slug: calca
+title: Calça
+version: 1
 ---
-Calças são demais
+Calças hoje são indispensáveis em armários de homens e mulheres

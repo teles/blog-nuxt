@@ -1,5 +1,6 @@
 ---
-name: 'Vestido'
-slug: 'vestido'
+slug: vestido
+title: Vestido
+version: 1
 ---
-Vestidos são maravilhosos
+Vestidos podem fazer toda a diferença no guarda-roupa
