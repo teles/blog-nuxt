@@ -4,7 +4,9 @@
       <img :src="post.image.src" class="jumbotron__image">
     </NuxtLink>
     <div class="jumbotron__content">
-      <span href="jumbotron__category" class="jumbotron__category">{{post.category}}</span>
+      <NuxtLink :to="{ name: 'categoria-slug', params: { slug: post.category.slug } }" class="jumbotron__category">
+        {{post.category.title}}
+      </NuxtLink>
       <h2 class="jumbotron__title">
         <NuxtLink :to="{ name: 'slug', params: { slug: post.slug } }" class="jumbotron__title__anchor">
           {{post.title}}

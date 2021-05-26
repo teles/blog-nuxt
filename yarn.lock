@@ -10777,10 +10777,10 @@ split-string@^3.0.1, split-string@^3.0.2:
   dependencies:
     extend-shallow "^3.0.0"
 
-spreadget@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/spreadget/-/spreadget-0.0.4.tgz#8d7c639e019cf596ace38c517ca4a1256a803735"
-  integrity sha512-Qu9cAyNRus9BJe94g2mSUfNEqu6nRXlID3g7sOqvf99avG87ZmOqEtcOqiA1CBREMENdGZwGDPoXJjbHCL4tTg==
+spreadget@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/spreadget/-/spreadget-0.0.5.tgz#8c197a6672c993b8c063aab7cd85af4b30df7fc1"
+  integrity sha512-UsgGWPWPmiXoNHauZgbu+3XCL15EzECe4rMFGLDrsO0mi+TC5+fCGZZU28czR00iutcQZC6nOjOrWjvgwzBkdA==
   dependencies:
     axios "^0.21.1"
     gray-matter "^4.0.3"

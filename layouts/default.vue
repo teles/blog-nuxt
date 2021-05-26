@@ -1,6 +1,6 @@
 <template>
   <div class="page">
-    <page-header :is-darker="false" />
+    <page-header :is-darker="false" :is-sticky="false" />
     <main class="page__main">
       <Nuxt />
     </main>
@@ -23,4 +23,5 @@ export default {
 <style>
 @import '../static/css/_global-variables.css';
 @import '../static/css/_global.css';
+@import '../static/css/_page.css';
 </style>

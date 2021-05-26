@@ -1,7 +1,9 @@
 <template>
   <ul class="featured-posts">
     <li class="featured-posts__post" v-for="(post, index) in posts" :key="index">
-      <span  class="featured-posts_post__category">{{post.category}}</span>
+      <NuxtLink :to="{ name: 'categoria-slug', params: { slug: post.category.slug } }" class="featured-posts_post__category">
+        {{post.category.title}}
+      </NuxtLink>
       <img :src="post.image.src" class="featured-posts__post__image">
       <h2 class="featured-posts__post__title">
         <NuxtLink :to="{ name: 'slug', params: { slug: post.slug } }" class="featured-posts__post__anchor">
@@ -12,6 +14,7 @@
     </li>
   </ul>
 </template>
+
 <script>
 export default {
   props: {
@@ -22,6 +25,7 @@ export default {
   }
 }
 </script>
+
 <style>
 @import '../static/css/_global-variables.css';
 
