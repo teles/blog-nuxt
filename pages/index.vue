@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import Archive from '../components/Archive';
+import Archive from '~/components/Archive';
 
 export default {
   components: {

@@ -4,9 +4,9 @@
       <img :src="post.image.src" class="jumbotron__image">
     </NuxtLink>
     <div class="jumbotron__content">
-      <NuxtLink :to="{ name: 'categoria-slug', params: { slug: post.category.slug } }" class="jumbotron__category">
+      <AnchorRef name="categoria-slug" :params="{slug: post.category.slug}" class="jumbotron__category">
         {{post.category.title}}
-      </NuxtLink>
+      </AnchorRef>
       <h2 class="jumbotron__title">
         <NuxtLink :to="{ name: 'slug', params: { slug: post.slug } }" class="jumbotron__title__anchor">
           {{post.title}}
@@ -18,7 +18,11 @@
 </template>
 
 <script>
+import AnchorRef from '~/components/AnchorRef';
 export default {
+  components: {
+    AnchorRef
+  },
   props: {
     post: {
       type: Object,

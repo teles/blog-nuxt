@@ -1,10 +1,10 @@
 <template>
   <div :style="isSticky ? 'position: sticky; top: 0;z-index:1;' : 'position: relative;z-index:1;'">
   <header :class="isDarker ? 'page__header--is-darker' : 'page__header'">
-    <NuxtLink class="page__header__logo" to="/">
+    <AnchorRef class="page__header__logo" name="index">
       <img src="~/assets/img/logo-principal-seamodapega.svg" class="page__header__logo__image" />
-    </NuxtLink>
-    <ul class="page__header__actions">
+    </AnchorRef>
+    <ul class="page__header__actions" style="display: none;">
       <li class="page__header__action">🔎</li>
     </ul>
   </header>
@@ -14,10 +14,12 @@
 
 <script>
 import PageNavigation from './PageNavigation'
+import AnchorRef from '~/components/AnchorRef'
 
 export default {
   components: {
-    PageNavigation
+    PageNavigation,
+    AnchorRef
   },
   props: {
     isDarker: {

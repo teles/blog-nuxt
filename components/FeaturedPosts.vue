@@ -1,9 +1,12 @@
 <template>
   <ul class="featured-posts">
     <li class="featured-posts__post" v-for="(post, index) in posts" :key="index">
-      <NuxtLink :to="{ name: 'categoria-slug', params: { slug: post.category.slug } }" class="featured-posts_post__category">
+      <AnchorRef
+        name="categoria-slug"
+        :params="{ slug: post.category.slug}"
+        class="featured-posts_post__category">
         {{post.category.title}}
-      </NuxtLink>
+      </AnchorRef>
       <img :src="post.image.src" class="featured-posts__post__image">
       <h2 class="featured-posts__post__title">
         <NuxtLink :to="{ name: 'slug', params: { slug: post.slug } }" class="featured-posts__post__anchor">
@@ -16,7 +19,12 @@
 </template>
 
 <script>
+import AnchorRef from "~/components/AnchorRef";
+
 export default {
+  components: {
+    AnchorRef
+  },
   props: {
     posts: {
       type: Array,
