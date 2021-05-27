@@ -5,7 +5,7 @@
       <img :src="post.image.src" class="page__article__image-box__image" />
     </section>
     <section class="page__article__content">
-      <nuxt-content :document="post" class="content" />
+      <NuxtContent :document="post" class="content" />
     </section>
   </article>
 </template>

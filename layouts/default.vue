@@ -1,10 +1,10 @@
 <template>
   <div class="page">
-    <page-header :is-darker="false" :is-sticky="false" />
+    <PageHeader :is-darker="false" :is-sticky="false" />
     <main class="page__main">
       <Nuxt />
     </main>
-    <page-footer />
+    <PageFooter />
   </div>
 </template>
 

@@ -8,7 +8,7 @@
       <li class="page__header__action">🔎</li>
     </ul>
   </header>
-  <page-navigation :is-darker="isDarker" />
+  <PageNavigation :is-darker="isDarker" />
   </div>
 </template>
 

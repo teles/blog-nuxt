@@ -1,5 +1,5 @@
 <template>
-  <archive :posts="posts" />
+  <Archive :posts="posts" />
 </template>
 
 <script>

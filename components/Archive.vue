@@ -1,7 +1,7 @@
 <template>
   <fragment>
-    <jumbotron :post="posts[0]" v-if="posts.length > 0" />
-    <featured-posts :posts="posts.slice(1, 5)" v-if="posts.length > 3" />
+    <Jumbotron :post="posts[0]" v-if="posts.length > 0" />
+    <FeaturedPosts :posts="posts.slice(1, 5)" v-if="posts.length > 3" />
   </fragment>
 </template>
 
